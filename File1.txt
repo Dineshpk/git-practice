@@ -1,1 +1,2 @@
 Creating a text file named File1.txt using the echo command and outputting it into file using > operator
+New line can be added to the file using >> operator
